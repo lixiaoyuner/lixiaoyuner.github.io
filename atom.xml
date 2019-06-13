@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lixiaoyuner</title>
+  
+  <subtitle>李小云儿</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-05-29T13:24:46.331Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>李云</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>windows、office、visio、project 激活方法</title>
+    <link href="http://yoursite.com/2019/05/29/windows%E3%80%81office%E3%80%81visio%E3%80%81project-%E6%BF%80%E6%B4%BB%E6%96%B9%E6%B3%95/"/>
+    <id>http://yoursite.com/2019/05/29/windows、office、visio、project-激活方法/</id>
+    <published>2019-05-29T10:50:37.000Z</published>
+    <updated>2019-05-29T13:24:46.331Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;windows、office、visio、project 等软件安装之前使用kms工具激活，每过一段时间都要重新激活，而kms工具早已被系统当做病毒给清除了。于是又要下载一次，并将其加入允许运行白名单，很是麻烦。现在总结一下另一种激活方法。&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>矩阵的知识点</title>
+    <link href="http://yoursite.com/2019/05/29/%E7%9F%A9%E9%98%B5%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
+    <id>http://yoursite.com/2019/05/29/矩阵的知识点/</id>
+    <published>2019-05-29T08:20:37.000Z</published>
+    <updated>2019-05-29T14:15:15.050Z</updated>
+    
+    <summary type="html">
+    
+      这里有关于矩阵的各种知识点
+    
+    </summary>
+    
+      <category term="knowledge" scheme="http://yoursite.com/categories/knowledge/"/>
+    
+    
+      <category term="矩阵" scheme="http://yoursite.com/tags/%E7%9F%A9%E9%98%B5/"/>
+    
+  </entry>
+  
+</feed>
