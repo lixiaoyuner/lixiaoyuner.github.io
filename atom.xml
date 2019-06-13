@@ -5,9 +5,9 @@
   <subtitle>李小云儿</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://lixiaoyuner.github.io/"/>
   <updated>2019-05-29T13:24:46.331Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://lixiaoyuner.github.io/</id>
   
   <author>
     <name>李云</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>windows、office、visio、project 激活方法</title>
-    <link href="http://yoursite.com/2019/05/29/windows%E3%80%81office%E3%80%81visio%E3%80%81project-%E6%BF%80%E6%B4%BB%E6%96%B9%E6%B3%95/"/>
-    <id>http://yoursite.com/2019/05/29/windows、office、visio、project-激活方法/</id>
+    <link href="https://lixiaoyuner.github.io/2019/05/29/windows%E3%80%81office%E3%80%81visio%E3%80%81project-%E6%BF%80%E6%B4%BB%E6%96%B9%E6%B3%95/"/>
+    <id>https://lixiaoyuner.github.io/2019/05/29/windows、office、visio、project-激活方法/</id>
     <published>2019-05-29T10:50:37.000Z</published>
     <updated>2019-05-29T13:24:46.331Z</updated>
     
@@ -34,8 +34,8 @@
   
   <entry>
     <title>矩阵的知识点</title>
-    <link href="http://yoursite.com/2019/05/29/%E7%9F%A9%E9%98%B5%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
-    <id>http://yoursite.com/2019/05/29/矩阵的知识点/</id>
+    <link href="https://lixiaoyuner.github.io/2019/05/29/%E7%9F%A9%E9%98%B5%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
+    <id>https://lixiaoyuner.github.io/2019/05/29/矩阵的知识点/</id>
     <published>2019-05-29T08:20:37.000Z</published>
     <updated>2019-05-29T14:15:15.050Z</updated>
     
@@ -45,10 +45,10 @@
     
     </summary>
     
-      <category term="knowledge" scheme="http://yoursite.com/categories/knowledge/"/>
+      <category term="knowledge" scheme="https://lixiaoyuner.github.io/categories/knowledge/"/>
     
     
-      <category term="矩阵" scheme="http://yoursite.com/tags/%E7%9F%A9%E9%98%B5/"/>
+      <category term="矩阵" scheme="https://lixiaoyuner.github.io/tags/%E7%9F%A9%E9%98%B5/"/>
     
   </entry>
   
