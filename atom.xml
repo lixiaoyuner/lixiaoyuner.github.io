@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lixiaoyuner.github.io/"/>
-  <updated>2019-05-29T13:24:46.331Z</updated>
+  <updated>2019-09-06T06:37:01.693Z</updated>
   <id>https://lixiaoyuner.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>pipenv 详解</title>
+    <link href="https://lixiaoyuner.github.io/2019/09/06/python-pyftpdlib/"/>
+    <id>https://lixiaoyuner.github.io/2019/09/06/python-pyftpdlib/</id>
+    <published>2019-09-06T06:13:24.000Z</published>
+    <updated>2019-09-06T06:37:01.693Z</updated>
+    
+    <summary type="html">
+    
+      该python库主要是为了帮助开发人员在一个项目里使用一种确定的python环境，与其他项目使用的python环境分离。
+    
+    </summary>
+    
+      <category term="knowledge" scheme="https://lixiaoyuner.github.io/categories/knowledge/"/>
+    
+    
+      <category term="python package" scheme="https://lixiaoyuner.github.io/tags/python-package/"/>
+    
+  </entry>
   
   <entry>
     <title>windows、office、visio、project 激活方法</title>
