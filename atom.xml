@@ -37,15 +37,15 @@
   </entry>
   
   <entry>
-    <title>linux git 使用</title>
-    <link href="https://lixiaoyuner.github.io/2019/11/19/linux-git/"/>
-    <id>https://lixiaoyuner.github.io/2019/11/19/linux-git/</id>
+    <title>linux screen 使用</title>
+    <link href="https://lixiaoyuner.github.io/2019/11/19/linux-screen/"/>
+    <id>https://lixiaoyuner.github.io/2019/11/19/linux-screen/</id>
     <published>2019-11-19T07:01:40.000Z</published>
-    <updated>2019-11-19T07:53:25.737Z</updated>
+    <updated>2019-11-19T07:53:31.520Z</updated>
     
     <summary type="html">
     
-      git的一些常用命令。
+      终端一关，任务就停，别担心，screen帮你创建一个不会关闭的终端，任务可以不用停的执行下去啦。
     
     </summary>
     
@@ -57,15 +57,15 @@
   </entry>
   
   <entry>
-    <title>linux screen 使用</title>
-    <link href="https://lixiaoyuner.github.io/2019/11/19/linux-screen/"/>
-    <id>https://lixiaoyuner.github.io/2019/11/19/linux-screen/</id>
+    <title>linux git 使用</title>
+    <link href="https://lixiaoyuner.github.io/2019/11/19/linux-git/"/>
+    <id>https://lixiaoyuner.github.io/2019/11/19/linux-git/</id>
     <published>2019-11-19T07:01:40.000Z</published>
-    <updated>2019-11-19T07:53:31.520Z</updated>
+    <updated>2019-11-19T10:35:58.720Z</updated>
     
     <summary type="html">
     
-      终端一关，任务就停，别担心，screen帮你创建一个不会关闭的终端，任务可以不用停的执行下去啦。
+      git的一些常用命令。
     
     </summary>
     
@@ -117,26 +117,6 @@
   </entry>
   
   <entry>
-    <title>python3 命令行安装</title>
-    <link href="https://lixiaoyuner.github.io/2019/09/06/python-install/"/>
-    <id>https://lixiaoyuner.github.io/2019/09/06/python-install/</id>
-    <published>2019-09-06T06:13:24.000Z</published>
-    <updated>2019-11-19T07:52:29.843Z</updated>
-    
-    <summary type="html">
-    
-      以源码编译的方式安装python总感觉很费事，找个有python的源，命令行安装很棒棒呢。
-    
-    </summary>
-    
-      <category term="python" scheme="https://lixiaoyuner.github.io/categories/python/"/>
-    
-    
-      <category term="python_install" scheme="https://lixiaoyuner.github.io/tags/python-install/"/>
-    
-  </entry>
-  
-  <entry>
     <title>python3 django 遇到的问题</title>
     <link href="https://lixiaoyuner.github.io/2019/09/06/python-django/"/>
     <id>https://lixiaoyuner.github.io/2019/09/06/python-django/</id>
@@ -153,6 +133,26 @@
     
     
       <category term="python_package" scheme="https://lixiaoyuner.github.io/tags/python-package/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python3 命令行安装</title>
+    <link href="https://lixiaoyuner.github.io/2019/09/06/python-install/"/>
+    <id>https://lixiaoyuner.github.io/2019/09/06/python-install/</id>
+    <published>2019-09-06T06:13:24.000Z</published>
+    <updated>2019-11-19T07:52:29.843Z</updated>
+    
+    <summary type="html">
+    
+      以源码编译的方式安装python总感觉很费事，找个有python的源，命令行安装很棒棒呢。
+    
+    </summary>
+    
+      <category term="python" scheme="https://lixiaoyuner.github.io/categories/python/"/>
+    
+    
+      <category term="python_install" scheme="https://lixiaoyuner.github.io/tags/python-install/"/>
     
   </entry>
   
