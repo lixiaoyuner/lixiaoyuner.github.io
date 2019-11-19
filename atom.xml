@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lixiaoyuner.github.io/"/>
-  <updated>2019-09-06T06:37:01.693Z</updated>
+  <updated>2019-11-19T07:31:44.647Z</updated>
   <id>https://lixiaoyuner.github.io/</id>
   
   <author>
@@ -17,11 +17,91 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>pipenv 详解</title>
-    <link href="https://lixiaoyuner.github.io/2019/09/06/python-pyftpdlib/"/>
-    <id>https://lixiaoyuner.github.io/2019/09/06/python-pyftpdlib/</id>
+    <title>python3 datetime 详解</title>
+    <link href="https://lixiaoyuner.github.io/2019/11/19/python-datetime/"/>
+    <id>https://lixiaoyuner.github.io/2019/11/19/python-datetime/</id>
+    <published>2019-11-19T07:01:40.000Z</published>
+    <updated>2019-11-19T07:31:44.647Z</updated>
+    
+    <summary type="html">
+    
+      python编程过程中弄清楚datetime十分必要。
+    
+    </summary>
+    
+      <category term="python" scheme="https://lixiaoyuner.github.io/categories/python/"/>
+    
+    
+      <category term="python_package" scheme="https://lixiaoyuner.github.io/tags/python-package/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux git 使用</title>
+    <link href="https://lixiaoyuner.github.io/2019/11/19/linux-git/"/>
+    <id>https://lixiaoyuner.github.io/2019/11/19/linux-git/</id>
+    <published>2019-11-19T07:01:40.000Z</published>
+    <updated>2019-11-19T07:53:25.737Z</updated>
+    
+    <summary type="html">
+    
+      git的一些常用命令。
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lixiaoyuner.github.io/categories/linux/"/>
+    
+    
+      <category term="linux_tools" scheme="https://lixiaoyuner.github.io/tags/linux-tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux screen 使用</title>
+    <link href="https://lixiaoyuner.github.io/2019/11/19/linux-screen/"/>
+    <id>https://lixiaoyuner.github.io/2019/11/19/linux-screen/</id>
+    <published>2019-11-19T07:01:40.000Z</published>
+    <updated>2019-11-19T07:53:31.520Z</updated>
+    
+    <summary type="html">
+    
+      终端一关，任务就停，别担心，screen帮你创建一个不会关闭的终端，任务可以不用停的执行下去啦。
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lixiaoyuner.github.io/categories/linux/"/>
+    
+    
+      <category term="linux_tools" scheme="https://lixiaoyuner.github.io/tags/linux-tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python3 那些有用的编程技巧</title>
+    <link href="https://lixiaoyuner.github.io/2019/09/06/python-tricks/"/>
+    <id>https://lixiaoyuner.github.io/2019/09/06/python-tricks/</id>
+    <published>2019-09-06T07:01:40.000Z</published>
+    <updated>2019-11-19T07:26:54.287Z</updated>
+    
+    <summary type="html">
+    
+      在写代码过程中，碰到的感觉很有意思的python编程技巧。
+    
+    </summary>
+    
+      <category term="python" scheme="https://lixiaoyuner.github.io/categories/python/"/>
+    
+    
+      <category term="python_program" scheme="https://lixiaoyuner.github.io/tags/python-program/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python3 pipenv 详解</title>
+    <link href="https://lixiaoyuner.github.io/2019/09/06/python-pipenv/"/>
+    <id>https://lixiaoyuner.github.io/2019/09/06/python-pipenv/</id>
     <published>2019-09-06T06:13:24.000Z</published>
-    <updated>2019-09-06T06:37:01.693Z</updated>
+    <updated>2019-11-19T07:31:57.768Z</updated>
     
     <summary type="html">
     
@@ -29,35 +109,79 @@
     
     </summary>
     
-      <category term="knowledge" scheme="https://lixiaoyuner.github.io/categories/knowledge/"/>
+      <category term="python" scheme="https://lixiaoyuner.github.io/categories/python/"/>
     
     
-      <category term="python package" scheme="https://lixiaoyuner.github.io/tags/python-package/"/>
+      <category term="python_package" scheme="https://lixiaoyuner.github.io/tags/python-package/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python3 命令行安装</title>
+    <link href="https://lixiaoyuner.github.io/2019/09/06/python-install/"/>
+    <id>https://lixiaoyuner.github.io/2019/09/06/python-install/</id>
+    <published>2019-09-06T06:13:24.000Z</published>
+    <updated>2019-11-19T07:52:29.843Z</updated>
+    
+    <summary type="html">
+    
+      以源码编译的方式安装python总感觉很费事，找个有python的源，命令行安装很棒棒呢。
+    
+    </summary>
+    
+      <category term="python" scheme="https://lixiaoyuner.github.io/categories/python/"/>
+    
+    
+      <category term="python_install" scheme="https://lixiaoyuner.github.io/tags/python-install/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python3 django 遇到的问题</title>
+    <link href="https://lixiaoyuner.github.io/2019/09/06/python-django/"/>
+    <id>https://lixiaoyuner.github.io/2019/09/06/python-django/</id>
+    <published>2019-09-06T06:13:24.000Z</published>
+    <updated>2019-11-19T07:53:42.826Z</updated>
+    
+    <summary type="html">
+    
+      Django编程过程中，遇到了很多问题，在这里记录一下。
+    
+    </summary>
+    
+      <category term="python" scheme="https://lixiaoyuner.github.io/categories/python/"/>
+    
+    
+      <category term="python_package" scheme="https://lixiaoyuner.github.io/tags/python-package/"/>
     
   </entry>
   
   <entry>
     <title>windows、office、visio、project 激活方法</title>
-    <link href="https://lixiaoyuner.github.io/2019/05/29/windows%E3%80%81office%E3%80%81visio%E3%80%81project-%E6%BF%80%E6%B4%BB%E6%96%B9%E6%B3%95/"/>
-    <id>https://lixiaoyuner.github.io/2019/05/29/windows、office、visio、project-激活方法/</id>
+    <link href="https://lixiaoyuner.github.io/2019/05/29/software-crack-microsoft/"/>
+    <id>https://lixiaoyuner.github.io/2019/05/29/software-crack-microsoft/</id>
     <published>2019-05-29T10:50:37.000Z</published>
-    <updated>2019-05-29T13:24:46.331Z</updated>
+    <updated>2019-11-19T07:19:32.006Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;windows、office、visio、project 等软件安装之前使用kms工具激活，每过一段时间都要重新激活，而kms工具早已被系统当做病毒给清除了。于是又要下载一次，并将其加入允许运行白名单，很是麻烦。现在总结一下另一种激活方法。&lt;br&gt;
+      windows、office、visio、project 等软件安装之前使用kms工具激活，每过一段时间都要重新激活，而kms工具早已被系统当做病毒给清除了。于是又要下载一次，并将其加入允许运行白名单，很是麻烦。现在总结一下另一种激活方法。
     
     </summary>
     
+      <category term="software_crack" scheme="https://lixiaoyuner.github.io/categories/software-crack/"/>
+    
+    
+      <category term="microsoft" scheme="https://lixiaoyuner.github.io/tags/microsoft/"/>
     
   </entry>
   
   <entry>
     <title>矩阵的知识点</title>
-    <link href="https://lixiaoyuner.github.io/2019/05/29/%E7%9F%A9%E9%98%B5%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
-    <id>https://lixiaoyuner.github.io/2019/05/29/矩阵的知识点/</id>
+    <link href="https://lixiaoyuner.github.io/2019/05/29/notes-%E7%9F%A9%E9%98%B5%E6%80%BB%E7%BB%93/"/>
+    <id>https://lixiaoyuner.github.io/2019/05/29/notes-矩阵总结/</id>
     <published>2019-05-29T08:20:37.000Z</published>
-    <updated>2019-05-29T14:15:15.050Z</updated>
+    <updated>2019-11-19T07:15:32.482Z</updated>
     
     <summary type="html">
     
@@ -65,10 +189,30 @@
     
     </summary>
     
-      <category term="knowledge" scheme="https://lixiaoyuner.github.io/categories/knowledge/"/>
+      <category term="notes" scheme="https://lixiaoyuner.github.io/categories/notes/"/>
     
     
       <category term="矩阵" scheme="https://lixiaoyuner.github.io/tags/%E7%9F%A9%E9%98%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>递归详解</title>
+    <link href="https://lixiaoyuner.github.io/2019/05/29/notes-%E9%80%92%E5%BD%92%E8%AF%A6%E8%A7%A3/"/>
+    <id>https://lixiaoyuner.github.io/2019/05/29/notes-递归详解/</id>
+    <published>2019-05-29T08:20:37.000Z</published>
+    <updated>2019-11-19T07:24:49.095Z</updated>
+    
+    <summary type="html">
+    
+      我认为可以将递归函数分为两种情况，一种是有返回值的，一种是没有返回值的（仅做结束递归用），我分别给起了名字，有返回值的叫寻找初心，无返回值的叫开枝散叶。下面分别讨论一下。
+    
+    </summary>
+    
+      <category term="notes" scheme="https://lixiaoyuner.github.io/categories/notes/"/>
+    
+    
+      <category term="递归" scheme="https://lixiaoyuner.github.io/tags/%E9%80%92%E5%BD%92/"/>
     
   </entry>
   
